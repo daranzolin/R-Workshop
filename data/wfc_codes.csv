@@ -1,0 +1,146 @@
+fund,variable,label,value
+CDBG,Are you currently in the military or a veteran?,Yes,1
+CDBG,Are you currently in the military or a veteran?,No,2
+CDBG,Are you currently in the military or a veteran?,Declined/Not stated,3
+CDBG,Are you homeless?,Yes,1
+CDBG,Are you homeless?,No,2
+CDBG,Are you homeless?,Declined/Not stated,3
+CDBG,Are you in or have you aged out the foster care system?,Yes,1
+CDBG,Are you in or have you aged out the foster care system?,No,2
+CDBG,Are you in or have you aged out the foster care system?,Declined/Not stated,3
+CDBG,Do you have a disability?,Yes,1
+CDBG,Do you have a disability?,No,2
+CDBG,Do you have a disability?,Declined/Not stated,3
+CDBG,Do you have difficulty understanding English?,Yes,1
+CDBG,Do you have difficulty understanding English?,No,2
+CDBG,Do you have difficulty understanding English?,Declined/Not stated,3
+CDBG,Employment Status,Working Full Time,1
+CDBG,Employment Status,Working Part Time,2
+CDBG,Employment Status,Not Working,3
+CDBG,Employment Status,Never Worked,4
+CDBG,Employment Status,Other (such as working as a contractor or temporary employee),5
+CDBG,Have you had contact with the criminal justice system?,Yes,1
+CDBG,Have you had contact with the criminal justice system?,No,2
+CDBG,Have you had contact with the criminal justice system?,Declined/Not stated,3
+CDBG,"If working part time, are you seeking full-time employment?",Yes,1
+CDBG,"If working part time, are you seeking full-time employment?",No,2
+CDBG,"If working part time, are you seeking full-time employment?",Not Applicable,3
+CDBG,Race/Ethnicity,American Indian or Alaskan Native,1
+CDBG,Race/Ethnicity,Asian,2
+CDBG,Race/Ethnicity,Black or African American,3
+CDBG,Race/Ethnicity,"Hispanic, Latino, or Spanish",4
+CDBG,Race/Ethnicity,Middle Eastern or Northern African,5
+CDBG,Race/Ethnicity,Native Hawaiian or Other Pacific Islander,6
+CDBG,Race/Ethnicity,White,7
+CDBG,Receiving Public Benefits Assistance,CalFresh,1
+CDBG,Receiving Public Benefits Assistance,CalWorks,2
+CDBG,Receiving Public Benefits Assistance,Other Cash Assistance Program,3
+CDBG,Receiving Public Benefits Assistance,Medi-Cal,4
+CDBG,Receiving Public Benefits Assistance,Social Security Disability Insurance (SSDI),5
+CDBG,Receiving Public Benefits Assistance,Supplemental Security Income (SSI),6
+CDBG,Receiving Public Benefits Assistance,None Selected,7
+CDBG,Sexual Orientation/Identity,Bisexual,1
+CDBG,Sexual Orientation/Identity,Gay/Lesbian/Same-Gender-Loving,2
+CDBG,Sexual Orientation/Identity,Questioning/Unsure,3
+CDBG,Sexual Orientation/Identity,Straight/Heterosexual,4
+CDBG,Sexual Orientation/Identity,Not Listed. Please specify,5
+CDBG,Sexual Orientation/Identity,Decline to Answer,6
+WIOA,Do you consider yourself to have a disability?,No,0
+WIOA,Do you consider yourself to have a disability?,Yes,1
+WIOA,Employment Status,Employed,1
+WIOA,Employment Status,Not Employed,2
+WIOA,Employment Status,"Employed, but received notice of termination of employment or military separation",3
+WIOA,English Language Learner,No,0
+WIOA,English Language Learner,Yes,1
+WIOA,FoodStampsSNAP,No,0
+WIOA,FoodStampsSNAP,Yes,1
+WIOA,Foster Child,No,0
+WIOA,Foster Child,Yes,1
+WIOA,GeneralAssistanceRecipient,1 - Applicant,1
+WIOA,GeneralAssistanceRecipient,2 - Family Member,2
+WIOA,GeneralAssistanceRecipient,9 - Not applicable,9
+WIOA,Hawaiian Native,No,0
+WIOA,Hawaiian Native,Yes,1
+WIOA,Hawaiian Native,Information Not Provided,9
+WIOA,Hispanic,No,0
+WIOA,Hispanic,Yes,1
+WIOA,Hispanic,Information Not Provided,9
+WIOA,Homeless,No,0
+WIOA,Homeless,Yes,1
+WIOA,HomelessVeteran,No,0
+WIOA,HomelessVeteran,Yes,1
+WIOA,If employed are you under employed?,No,0
+WIOA,If employed are you under employed?,Yes,1
+WIOA,If employed are you under employed?,Not Applicable,9
+WIOA,Offender,No,0
+WIOA,Offender,Yes,1
+WIOA,Race 1,White,1
+WIOA,Race 1,African American/Black,2
+WIOA,Race 1,American Indian/Alaskan Native,4
+WIOA,Race 1,Asian,5
+WIOA,Race 1,Hawaiian/Other Pacific Islander,6
+WIOA,Race 1,I do not wish to answer.,99
+WIOA,Race 2,White,1
+WIOA,Race 2,African American/Black,2
+WIOA,Race 2,American Indian/Alaskan Native,4
+WIOA,Race 2,Asian,5
+WIOA,Race 2,Hawaiian/Other Pacific Islander,6
+WIOA,Race 2,I do not wish to answer.,99
+WIOA,Race 3,White,1
+WIOA,Race 3,African American/Black,2
+WIOA,Race 3,American Indian/Alaskan Native,4
+WIOA,Race 3,Asian,5
+WIOA,Race 3,Hawaiian/Other Pacific Islander,6
+WIOA,Race 3,I do not wish to answer.,99
+WIOA,Race 4,White,1
+WIOA,Race 4,African American/Black,2
+WIOA,Race 4,American Indian/Alaskan Native,4
+WIOA,Race 4,Asian,5
+WIOA,Race 4,Hawaiian/Other Pacific Islander,6
+WIOA,Race 4,I do not wish to answer.,99
+WIOA,Race 5,White,1
+WIOA,Race 5,African American/Black,2
+WIOA,Race 5,American Indian/Alaskan Native,4
+WIOA,Race 5,Asian,5
+WIOA,Race 5,Hawaiian/Other Pacific Islander,6
+WIOA,Race 5,I do not wish to answer.,99
+WIOA,Receiving General Assistance,No,0
+WIOA,Receiving General Assistance,Yes,1
+WIOA,Receiving Supplemental Security Income (SSI),No,0
+WIOA,Receiving Supplemental Security Income (SSI),Yes,1
+WIOA,Receiving or been notified of Pell Award,No,0
+WIOA,Receiving or been notified of Pell Award,Yes,1
+WIOA,RefugeeCashRecipient,1 - Applicant,1
+WIOA,RefugeeCashRecipient,2 - Family Member,2
+WIOA,RefugeeCashRecipient,9 - Not applicable,9
+WIOA,SNAPServices,No,0
+WIOA,SNAPServices,Yes,1
+WIOA,SNAPServices,Unknown,9
+WIOA,SSIRECIPIENT,1 - Applicant,1
+WIOA,SSIRECIPIENT,2 - Family Member,2
+WIOA,SSIRECIPIENT,9 - Not applicable,9
+WIOA,School Enrollment,"In-school, High School or less",1
+WIOA,School Enrollment,"In-school, Alternative School",2
+WIOA,School Enrollment,"In-school, Postsecondary School",3
+WIOA,School Enrollment,"Not attending school,  or H.S. Dropout",4
+WIOA,School Enrollment,"Not attending school, H.S. Graduate or has a recognized equivalent.",5
+WIOA,School Enrollment,Not attending school; within age of compulsory school attendance.,6
+WIOA,School Enrollment,Not identified (inactive),9
+WIOA,Sexual Orientation or Sexual Identity,Straight/Heterosexual,1
+WIOA,Sexual Orientation or Sexual Identity,Gay/Lesbian/Same-Gender-Loving,2
+WIOA,Sexual Orientation or Sexual Identity,Bisexual,3
+WIOA,Sexual Orientation or Sexual Identity,Questioning/Unsure,4
+WIOA,Sexual Orientation or Sexual Identity,Not Listed:  Please specify,5
+WIOA,Sexual Orientation or Sexual Identity,Decline to Answer,6
+WIOA,TANF,No,0
+WIOA,TANF,Yes,1
+WIOA,TANFRECIPIENT,Applicant,1
+WIOA,TANFRECIPIENT,Family Member,2
+WIOA,TANFRECIPIENT,Not applicable,9
+WIOA,TicketToWork,No,0
+WIOA,TicketToWork,Yes,1
+WIOA,TicketToWork,Unknown,9
+WIOA,Veteran Status,Yes <= 180 days,1
+WIOA,Veteran Status,"Yes, Eligible Veteran",2
+WIOA,Veteran Status,No,3
+WIOA,Veteran Status,"Yes, Other Eligible Person",4
